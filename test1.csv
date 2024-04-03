@@ -1,7 +1,7 @@
-Name,Age
-Tanya,30
-Zeinab,36
-Jon,47
-Alex,35
-Daljit,33
-Sheena,41
+Name,Age,Experience,Salary
+Jon,47,26,250000
+Zeinab,35,9,165000
+Sheena,41,19,150000
+Tanya,30,7,120000
+Alex,35,11,180000
+Daljit,33,10,100000
