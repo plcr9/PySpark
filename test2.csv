@@ -1,11 +1,42 @@
-Player,Country,Continent,Titles
-Novak Djokovic,Serbia,Europe,97
-Jannik Sinner,Italy,Europe,13
-Carlos Alcaraz,Spain,Europe,13
-Daniil Medvedev,Unattached,Europe,20
-Alexander Zverev,Germany,Europe,21
-Andrey Rublev,Unattached,Europe,15
-Holger Rune,Denmark,Europe,4
-Casper Ruud,Norway,Europe,10
-Grigor Dimitrov,Bulgaria,Europe,9
-Hubert Hurkacz,Poland,Europe,7
+Rank,Player,Country,Continent,Titles,Age,TournamentsPlayed,RankingPoints
+1,Novak Djokovic,Serbia,Europe,97,36,18,9725
+2,Jannik Sinner,Italy,Europe,13,22,20,8710
+3,Carlos Alcaraz,Spain,Europe,13,20,18,8645
+4,Daniil Medvedev,Unattached,Europe,20,28,19,7165
+5,Alexander Zverev,Germany,Europe,21,26,26,5415
+6,Andrey Rublev,Unattached,Europe,15,26,24,4890
+7,Holger Rune,Denmark,Europe,4,20,23,3795
+8,Casper Ruud,Norway,Europe,10,25,24,3615
+9,Grigor Dimitrov,Bulgaria,Europe,9,32,24,3540
+10,Hubert Hurkacz,Poland,Europe,7,27,24,3425
+11,Alex De Minaur,Australia,Oceania,8,25,25,3355
+12,Stefanos Tsitsipas,Greece,Europe,10,25,25,3175
+13,Taylor Fritz,United States,North America,7,26,25,2765
+14,Ugo Humbert,France,Europe,6,25,29,2425
+15,Tommy Paul,United States,North America,2,26,27,2350
+16,Ben Shelton,United States,North America,1,21,27,2260
+17,Karen Khachanov,Unattached,Europe,6,27,23,2005
+18,Alexander Bublik,Kazakhstan,Europe,4,26,29,1992
+19,Sebastian Baez,Argentina,South America,6,23,30,1980
+20,Adrian Mannarino,France,Europe,5,35,29,1875
+21,Frances Tiafoe,United States,North America,3,26,23,1770
+22,Nicolas Jarry,Chile,South America,3,28,26,1755
+23,Francisco Cerundolo,Argentina,South America,2,25,26,1715
+24,Lorenzo Musetti,Italy,Europe,2,22,29,1610
+25,Tallon Griekspoor,Netherlands,Europe,2,27,26,1500
+26,Jan-Lennard Struff,Germany,Europe,0,33,26,1493
+27,Sebastian Korda,United States,North America,1,23,23,1445
+28,Alejandro Davidovich Fokina,Spain,Europe,0,24,25,1430
+29,Jiri Lehecka,Czechia,Europe,1,22,27,1400
+30,Tomas Martin Etcheverry,Argentina,South America,0,24,28,1310
+31,Cameron Norrie,Great Britain,Europe,5,28,25,1290
+32,Borna Coric,Croatia,Europe,3,27,24,1204
+33,Jordan Thompson,Australia,Oceania,1,29,29,1195
+34,Laslo Djere,Serbia,Europe,2,28,24,1185
+35,Matteo Arnaldi,Italy,Europe,0,23,24,1171
+36,Felix Auger-Aliassime,Canada,North America,5,23,22,1150
+37,Arthur Fils,France,Europe,1,19,26,1130
+38,Fabian Marozsan,Hungary,Europe,0,24,26,1122
+39,Jack Draper,Great Britain,Europe,0,22,20,1101
+40,Roman Safiullin,Unattached,Europe,0,26,22,1089
+41,null,null,null,null,null,null,null
